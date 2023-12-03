@@ -7,12 +7,12 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <Import Project="..\Shared\Shared.projitems" Label="Shared" />
+
   <ItemGroup>
     <None Update="input.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
   </ItemGroup>
-
-  <Import Project="..\Shared\Shared.projitems" Label="Shared" />
 
 </Project>

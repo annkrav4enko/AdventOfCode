@@ -9,3 +9,6 @@
 /AdventOfCode/.vs
 /AdventOfCode/Day1/bin/Debug/net6.0
 /AdventOfCode/Day1/obj
+/AdventOfCode/Day2/obj
+/AdventOfCode/Day2/bin/Debug/net6.0
+/AdventOfCode/Shared/obj/Debug/net6.0

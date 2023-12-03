@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
+using Shared;
 
 namespace Day1
 {
@@ -81,10 +82,6 @@ namespace Day1
 
 
                 var firstDigit = dictionary.ElementAt(currentMinIndex).Value;
-
-
-                //var maxValue = positivePositions.Max();
-                //var lastDigit = dictionary.ElementAt(positivePositions.IndexOf(maxValue)).Value;
 
                 var currentMax = -1;
                 var currentMaxIndex = 0;
