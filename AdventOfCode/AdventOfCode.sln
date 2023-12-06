@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day3", "Day3\Day3.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day4", "Day4\Day4.csproj", "{1654C1F8-DB7F-4BBB-9511-062ABB1FC671}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day5", "Day5\Day5.csproj", "{C9E4825C-B80F-4233-8AE4-DD850442BCC1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -37,6 +39,10 @@ Global
 		{1654C1F8-DB7F-4BBB-9511-062ABB1FC671}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1654C1F8-DB7F-4BBB-9511-062ABB1FC671}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1654C1F8-DB7F-4BBB-9511-062ABB1FC671}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9E4825C-B80F-4233-8AE4-DD850442BCC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9E4825C-B80F-4233-8AE4-DD850442BCC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9E4825C-B80F-4233-8AE4-DD850442BCC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9E4825C-B80F-4233-8AE4-DD850442BCC1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -50,5 +56,6 @@ Global
 		Shared\Shared.projitems*{48c90d0f-162b-4dcd-a647-ace1a0390b31}*SharedItemsImports = 5
 		Shared\Shared.projitems*{563da301-ad70-4011-80db-62390928f1c6}*SharedItemsImports = 5
 		Shared\Shared.projitems*{6928310f-1e91-4d26-b57e-bc79989e9715}*SharedItemsImports = 5
+		Shared\Shared.projitems*{c9e4825c-b80f-4233-8ae4-dd850442bcc1}*SharedItemsImports = 5
 	EndGlobalSection
 EndGlobal
